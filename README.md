@@ -59,7 +59,7 @@ Le projet utilise une **architecture client-serveur** avec **Java RMI** pour la 
 
 ### Prérequis
 
-- **Java 8 ou supérieur**.
+- **Java 9 ou supérieur**.
 - **MySQL 5.7 ou supérieur**.
 - **JDBC (MySQL Connector)** : Le connecteur MySQL doit être inclus dans le projet.
 
